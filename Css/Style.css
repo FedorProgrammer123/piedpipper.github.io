@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 84px;
+    background: #007765;
+    position: fixed;
+}
+.logo{
+    padding-left: 15%;
+    padding-top: 1.2%;
+}
+nav{
+    margin-left: 50%;
+    margin-top: -2%
+}
+nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+.firstblock .display-1{
+    text-align: center;
+    margin-top:-200px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+}
+.secondblock{
+    width: 100%;
+    height: 719px;
+    margin-top: 100px;
+    background-color: #EEEEEE;
+}
+.thirdblock{
+    width: 100%;
+    height: 483px;
+    background: url('../Img/image2.svg');
+}
+.fourblock{
+    width: 100%;
+    height: 604px;
+    background: #FFFFFF;
+}
+.fiveblock{
+    width: 100%;
+    height: 845px;
+    background-color: #EEEEEE;
+}
+footer{
+    width: 100%;
+    height: 176px;
+    background-color: #333333;
+}
+.secondblock h1{
+    text-align: center;
+    color: #007765;
+    padding-top:20px;
+    font-weight: bolder;
+    font-size: 64px;
+}
+.secondblock p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+    padding-left: 451px;
+}
+.thirdblock p{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+
+    color: #FFFFFF;
+    padding-top: 50px;
+}
+.fourblock h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #007765;
+    padding-top:10px;
+}
+.fourblock .p1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+    padding-left: 614px;
+}
+.fourblock .p2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+    padding-left: 451px;
+}
+.fourblock img{
+    padding-left: 451px;
+    margin-top:-70px;
+}
+footer p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+    padding-top:50px;
+}
+.fiveblock h1{
+    color:  #007765;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 64px;
+    line-height: 75px;
+}
+.image3{
+    padding-left:500px;
+}
+.image4{
+    padding-left: 200px;
+}
+.image5{
+    padding-left: 180px;
+}
+.Richard{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+    color: #007765;
+    padding-left: 500px;
+}
+.Founder{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-left: 550px;
+}
+.Dinesh{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    color: #007765;
+    margin-top:-45px;
+    padding-left: 860px;
+}
+.image6{
+    margin-left: -900px;
+    padding-top:460px;
+}
+.specialists{
+    margin-top:-230px;
+}
+.image7{
+    padding-left: 200px;
+    padding-top:470px;
+}
+.image8{
+    padding-left: 190px;
+    padding-top:470px;
+}
+.Bertram{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    color: #007765;
+    padding-left: 1235px;
+    margin-top:-75px;
+}
+.Jared{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    color: #007765;
+    padding-left: 500px;
+    padding-top:150px;
+}
+.Monica{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    color: #007765;
+    padding-left: 900px;
+    margin-top:-80px;
+}
+.Nelson{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+    color: #007765;
+    padding-left: 1250px;
+    margin-top:-50px;
+}
+.Founder{
+    padding-left: 520px;
+    margin-top:-20px;
+}
+.Senior{
+    padding-left: 880px;
+    margin-top:-20px;
+}
+.Chief{
+    padding-left: 520px;
+    margin-top:-20px;
+}
+.ChiefFinancial{
+    padding-left: 920px;
+    margin-top:-20px;
+}
+.Majority{
+    padding-left: 1300px;
+    margin-top:-18px;
+}
+.ChiefSystemsArchitect{
+    padding-left: 1250px;
+    margin-top:-20px;
+}
